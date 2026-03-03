@@ -48,7 +48,8 @@ It does not propose governance policies, regulatory frameworks, or implementatio
 - Automation Boundaries  
 - Structural Risk  
 - Responsibility Architecture  
-- Long-Run Stability  
+- Long-Run Stability   
+- Interpretability Gap
 
 ---
 
