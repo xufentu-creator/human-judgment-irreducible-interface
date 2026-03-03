@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Human Judgment as an Irreducible Interface in High-Complexity Systems"
+message: "If you use this work, please cite the tagged release."
+type: software
+authors:
+  - family-names: "Tu"
+    given-names: "Xufen"
+    email: "xufentu@gmail.com"
+    affiliation: "Independent Interdisciplinary Researcher"
+repository-code: "https://github.com/xufentu-creator/human-judgment-irreducible-interface"
+abstract: >
+  A structural boundary framework examining human judgment as an irreducible interface
+  in high-complexity systems under conditions of uncertainty and irreversibility.
+keywords:
+  - Complex Systems
+  - AI Governance
+  - Decision Architecture
+  - Human Judgment
+  - Irreducible Interface
+license: "CC-BY-4.0"
+version: "v1.0"
+date-released: 2026-02-06
