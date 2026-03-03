@@ -44,9 +44,11 @@ https://github.com/xufentu-creator/judgment-as-structural-constraint
 Citation
 ---
 
-Please cite tagged releases of this repository for stable reference.
+DOI: https://doi.org/10.5281/zenodo.18573944
+
+Please cite the tagged release (v1.0) for stable academic reference.
 
 License
 ---
 
-To be specified.
+This repository is licensed under CC BY 4.0.
