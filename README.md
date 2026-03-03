@@ -1,54 +1,81 @@
-Human Judgment as an Irreducible Interface
+# Human Judgment as an Irreducible Interface
 
-A structural boundary framework examining human judgment as an irreducible interface in high-complexity systems, based on information theory and complex systems dynamics.
+A structural boundary framework examining human judgment as an irreducible interface in high-complexity systems, grounded in information theory and complex systems dynamics.
 
-Core Concept
 ---
 
-This work introduces the concept of the Irreducible Interface —
-a structural system position that bears decision under non-closure conditions and maintains consequence continuity across time.
+## Core Concept
 
-The analysis focuses on long-run system stability under conditions of complexity, uncertainty, and irreversibility.
+**Irreducible Interface**
 
-Research Scope
+A structural system position that:
+
+- Bears decision under non-closure conditions  
+- Maintains consequence continuity across time  
+- Stabilizes execution under irreversibility  
+- Functions at the boundary between automation and responsibility  
+
+Human judgment is defined here not as cognition or preference, but as a structural boundary function in complex systems.
+
 ---
 
-This study is structural and methodological in nature.
-It does not propose governance policies, technical standards, or implementation pathways.
+## Analytical Focus
 
-The framework is intended as an independently citable structural reference for analyzing decision-bearing boundaries in complex systems.
+This framework examines long-run system stability under:
 
-Keywords
+- Complexity  
+- Uncertainty  
+- Irreversibility  
+- Automation acceleration  
+
+The analysis is structural and methodological in nature.
+
+It does not propose governance policies, regulatory frameworks, or implementation pathways.
+
 ---
 
-Irreducible Interface
-Human Judgment
-Complex Systems
-Automation Boundaries
-Long-Run Stability
+## Research Themes
 
-Author
+- Irreducible Interface  
+- Human Judgment  
+- Complex Systems  
+- Decision Architecture  
+- AI Governance  
+- Automation Boundaries  
+- Structural Risk  
+- Responsibility Architecture  
+- Long-Run Stability  
+
 ---
 
-Xufen Tu
-Independent Interdisciplinary Researcher
-AI Governance & Complex Systems
+## Author
 
-Related Work
+**Xufen Tu**  
+Independent Interdisciplinary Researcher  
+AI Governance · Complex Systems · Decision Architecture  
+
 ---
 
-For related structural research on citation governance and high-replication environments:
+## Research Continuity
 
-https://github.com/xufentu-creator/judgment-as-structural-constraint
+This work builds upon earlier structural research:
 
-Citation
+**Judgment Before Momentum**  
+https://github.com/xufentu-creator/judgment-as-structural-constraint  
+
+Earlier repositories document replication-layer governance and citation continuity models.  
+The present repository defines the core theoretical boundary framework.
+
 ---
 
-DOI: https://doi.org/10.5281/zenodo.18573944
+## Citation
+
+DOI: https://doi.org/10.5281/zenodo.18573944  
 
 Please cite the tagged release (v1.0) for stable academic reference.
 
-License
 ---
+
+## License
 
 This repository is licensed under CC BY 4.0.
