@@ -1,5 +1,9 @@
 # Human Judgment as an Irreducible Interface
 
+
+**Version:** 1.0  
+**DOI:** https://doi.org/10.5281/zenodo.18573944  
+
 A structural boundary framework examining human judgment as an irreducible interface in high-complexity systems, grounded in information theory and complex systems dynamics.
 
 ---
