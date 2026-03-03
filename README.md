@@ -67,8 +67,10 @@ This work builds upon earlier structural research:
 **Judgment Before Momentum**  
 https://github.com/xufentu-creator/judgment-as-structural-constraint  
 
+DOI: https://doi.org/10.5281/zenodo.18571480
+
 Earlier repositories document replication-layer governance and citation continuity models.  
-The present repository defines the core theoretical boundary framework.
+The present repository further formalizes the theoretical boundary definition introduced in earlier structural work.
 
 ---
 
