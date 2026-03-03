@@ -1,0 +1,12 @@
+Human Judgment as an Irreducible Interface
+Version 1.0
+Release date: 2026-02-06
+DOI: https://doi.org/10.5281/zenodo.18573944
+
+----------------------------------------------------------------
+File: Human_Judgment_as_a_Structural_Boundary_in_Complex_Systems_v1.0.md
+SHA256: 05ac4a2cb65fd8b08de2984fa012e4a6fc72d7d5d5da6cdfac434fe7794515ee
+----------------------------------------------------------------
+File: Human_Judgment_as_a_Structural_Boundary_in_Complex_Systems_v1.0.pdf
+SHA256: 94d2bc89cf6f419f5ea4764839d638f84a4f90eca11dbeb3210d15b7db31b07f
+----------------------------------------------------------------
