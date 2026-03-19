@@ -1,8 +1,9 @@
 # Human Judgment as an Irreducible Interface
 
-
 **Version:** 1.0  
-**DOI:** https://doi.org/10.5281/zenodo.18573944  
+
+Canonical research repository (sole authoritative reference):  
+https://github.com/xufentu-creator/judgment-as-structural-constraint  
 
 A structural boundary framework examining human judgment as an irreducible interface in high-complexity systems, grounded in information theory and complex systems dynamics.
 
@@ -48,8 +49,8 @@ It does not propose governance policies, regulatory frameworks, or implementatio
 - Automation Boundaries  
 - Structural Risk  
 - Responsibility Architecture  
-- Long-Run Stability   
-- Interpretability Gap
+- Long-Run Stability  
+- Interpretability Gap  
 
 ---
 
@@ -63,23 +64,13 @@ AI Governance · Complex Systems · Decision Architecture
 
 ## Research Continuity
 
-This work builds upon earlier structural research:
-
-**Judgment Before Momentum**  
-https://github.com/xufentu-creator/judgment-as-structural-constraint  
-
-DOI: https://doi.org/10.5281/zenodo.18571480
-
-Earlier repositories document replication-layer governance and citation continuity models.  
-The present repository further formalizes the theoretical boundary definition introduced in earlier structural work.
+This work builds upon earlier structural research in human judgment and system-level constraint modeling.
 
 ---
 
 ## Citation
 
-DOI: https://doi.org/10.5281/zenodo.18573944  
-
-Please cite the tagged release (v1.0) for stable academic reference.
+Citation information is provided in the `CITATION.cff` file.
 
 ---
 
