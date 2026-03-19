@@ -4,14 +4,12 @@ message: "If you use this work, please cite the tagged release."
 type: article
 
 authors:
-  - family-names: "Tu"
-    given-names: "Xufen"
-    email: "xufentu@gmail.com"
-    affiliation: "Independent Interdisciplinary Researcher"
+  - family-names: Tu
+    given-names: Xufen
+    email: xufentu@gmail.com
+    affiliation: Independent Interdisciplinary Researcher
 
 doi: 10.5281/zenodo.18573944
-
-repository-code: "https://github.com/xufentu-creator/human-judgment-irreducible-interface"
 
 abstract: >
   A structural boundary framework examining human judgment as an irreducible interface
