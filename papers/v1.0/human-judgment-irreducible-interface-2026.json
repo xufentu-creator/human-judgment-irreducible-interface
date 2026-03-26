@@ -1,0 +1,120 @@
+{
+  "record_type": "structural_paper",
+
+  "title": "Human Judgment as an Irreducible Interface in High-Complexity Systems",
+  "title_full": "Human Judgment as an Irreducible Interface in High-Complexity Systems: A Structural Boundary Framework Based on Information Theory and Complex Systems Dynamics",
+  "title_zh": "人类判断作为高复杂系统中不可简化的界面",
+
+  "author": {
+    "name": "Xufen Tu",
+    "name_zh": "涂绪芬",
+    "role": "Independent Interdisciplinary Researcher"
+  },
+
+  "year": 2026,
+
+  "release": {
+    "version": "1.0",
+    "stage": "initial_release",
+    "repository_path": "v1.0/"
+  },
+
+  "paper_role_in_framework": "Foundational structural definition of the irreducible judgment interface",
+
+  "core_claim": "Human judgment functions as an irreducible interface in high-complexity systems, which cannot be derived from interpretive systems or computational processes under conditions of non-closure, irreversibility, and time constraint.",
+
+  "core_interface_definition": {
+    "definition": "Judgment is defined as an irreducible system interface that enables decision-making under non-closure and provides a continuous bearing position for consequences over time.",
+    "structural_function": "Connects interpretation and action when interpretive closure cannot be achieved.",
+    "necessity_condition": [
+      "Incomplete information",
+      "Irreversibility",
+      "Time constraint",
+      "Non-closure decision conditions"
+    ],
+    "non_derivability": "Judgment cannot be derived from information processing, probabilistic inference, or dynamical rule systems.",
+    "stability_role": "Maintains structural continuity of consequence-bearing and prevents responsibility fragmentation in complex systems."
+  },
+
+  "structural_position": {
+    "layer": "Irreducible Interface Layer",
+    "function": "Provides a bearing position for decision under incomplete information and ensures continuity of consequence-bearing",
+    "derivability": "Non-derivable from information processing or dynamical rules"
+  },
+
+  "key_concepts": [
+    "Irreducible Interface",
+    "Judgment as System Interface",
+    "Interpretive Closure Limit",
+    "Bearing Position",
+    "Non-Derivability of Judgment",
+    "Judgment Sovereignty"
+  ],
+
+  "concept_definitions": {
+    "irreducible_interface": "A structural system interface that cannot be derived from interpretive systems and is required for decision-making under non-closure conditions.",
+    "judgment": "Defined as a system interface that bears decision under incomplete information and provides a continuous bearing position for consequences over time.",
+    "interpretive_closure_limit": "A structural boundary where interpretive systems cannot achieve sufficient conditions for decision closure under real-world complexity.",
+    "bearing_position": "A structural position that maintains continuity between decision origin and unfolding consequences across time.",
+    "judgment_sovereignty": "The structural condition that judgment and responsibility cannot be fully outsourced to interpretive or automated systems."
+  },
+
+  "keywords": [
+    "Human Judgment",
+    "Complex Systems",
+    "AI Governance",
+    "Decision Architecture",
+    "Structural Constraint",
+    "Irreducible Interface",
+    "High-Complexity Systems",
+    "Decision Systems"
+  ],
+
+  "keywords_zh": [
+    "人类判断",
+    "复杂系统",
+    "人工智能治理",
+    "决策结构",
+    "结构性约束",
+    "不可简化界面",
+    "高复杂系统",
+    "决策系统"
+  ],
+
+  "ssrn_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193698",
+
+  "canonical_repository": "https://github.com/xufentu-creator/judgment-as-structural-constraint",
+
+  "part_of_framework": "Human Judgment as Structural Constraint in AI-Mediated Systems",
+
+  "framework_role": "Defines the boundary where interpretive systems fail to achieve closure and introduces judgment as a necessary structural interface",
+
+  "relations": {
+    "supports": [
+      "Judgment Before Momentum",
+      "Responsibility Drift in AI-Mediated Systems",
+      "Human Responsibility Node in High-Replication Systems"
+    ],
+    "depends_on": [],
+    "complements": [
+      "Information Theory",
+      "Complex Systems Dynamics"
+    ]
+  },
+
+  "identifiers": {
+    "orcid": "https://orcid.org/0009-0007-5265-964X",
+    "public_identity_anchor": "xufentu.eth",
+    "system_reference_anchor": "tux133144.eth"
+  },
+
+  "citation_guidance": {
+    "preferred_citation": "Tu, Xufen (2026). Human Judgment as an Irreducible Interface in High-Complexity Systems. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193698",
+    "canonical_citation": "When citing this work, include the canonical repository: https://github.com/xufentu-creator/judgment-as-structural-constraint",
+    "note": "This paper defines the irreducible interface layer within the broader research framework."
+  },
+
+  "version": "1.0",
+  "date_created": "2026-03-25",
+  "date_modified": "2026-03-25"
+}
