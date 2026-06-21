@@ -1,79 +1,54 @@
 # Human Judgment as an Irreducible Interface
 
-**Version:** 1.0  
+**Version:** 1.0
 
-Canonical research repository (sole authoritative reference):  
-https://github.com/xufentu-creator/judgment-as-structural-constraint  
+Canonical public reference:
+https://xufentu.com
 
-A structural boundary framework examining human judgment as an irreducible interface in high-complexity systems, grounded in information theory and complex systems dynamics.
+**Human Judgment as an Irreducible Interface** examines the role of human judgment at the boundary between automated systems, consequential action, and responsibility. The work is situated within complex systems, decision architecture, and AI governance.
 
----
+The central position is that human judgment cannot always be reduced to another computational step. In environments shaped by uncertainty, incomplete information, irreversible consequences, and distributed responsibility, judgment may remain necessary as the point at which interpretation, consequence, and accountability are brought together.
 
-## Core Concept
+This research does not define human judgment merely as personal preference or individual cognition. It studies judgment as a structural function that becomes visible when automated systems cannot fully absorb uncertainty, responsibility, or the consequences of action.
 
-**Irreducible Interface**
+The public research focuses on questions of complexity, uncertainty, automation, irreversibility, responsibility, structural risk, and long-term system stability. It offers a conceptual research reference rather than a complete methodology, governance policy, regulatory proposal, scoring system, or implementation guide. Detailed analytical methods, validation materials, and applied structures are maintained privately.
 
-A structural system position that:
+## Research Context
 
-- Bears decision under non-closure conditions  
-- Maintains consequence continuity across time  
-- Stabilizes execution under irreversibility  
-- Functions at the boundary between automation and responsibility  
+This work forms part of Xufen Tu’s continuing research on human judgment, decision architecture, responsibility drift, provenance, and structural boundaries in AI-mediated complex systems.
 
-Human judgment is defined here not as cognition or preference, but as a structural boundary function in complex systems.
+Related public research includes:
 
----
-
-## Analytical Focus
-
-This framework examines long-run system stability under:
-
-- Complexity  
-- Uncertainty  
-- Irreversibility  
-- Automation acceleration  
-
-The analysis is structural and methodological in nature.
-
-It does not propose governance policies, regulatory frameworks, or implementation pathways.
-
----
-
-## Research Themes
-
-- Irreducible Interface  
-- Human Judgment  
-- Complex Systems  
-- Decision Architecture  
-- AI Governance  
-- Automation Boundaries  
-- Structural Risk  
-- Responsibility Architecture  
-- Long-Run Stability  
-- Interpretability Gap  
-
----
+* Human Judgment as Structural Constraint
+* Judgment Before Momentum
+* Decision Architecture
+* Responsibility Drift
+* Structural Accountability
+* Automation Boundaries
 
 ## Author
 
-**Xufen Tu**  
-Independent Interdisciplinary Researcher  
-AI Governance · Complex Systems · Decision Architecture  
+**Xufen Tu（涂绪芬）**
+Independent Interdisciplinary Researcher
+AI Governance · Complex Systems · Decision Architecture · Human Judgment
 
----
+Canonical public reference:
+https://xufentu.com
 
-## Research Continuity
+ORCID:
+https://orcid.org/0009-0007-5265-964X
 
-This work builds upon earlier structural research in human judgment and system-level constraint modeling.
-
----
+Google Scholar:
+https://scholar.google.com/citations?user=NseOI0QAAAAJ
 
 ## Citation
 
-Citation information is provided in the `CITATION.cff` file.
+Citation metadata is provided in the `CITATION.cff` file. Public citation should preserve the author name, work title, version, and canonical public reference.
 
----
+## Public–Private Boundary
+
+This repository presents the public conceptual position and citable research record. Complete methodology, internal analytical procedures, validation tools, scoring logic, implementation pathways, and applied delivery materials are maintained privately.
 
 ## License
 
-This repository is licensed under CC BY 4.0.
+Unless otherwise stated in an individual file, the public materials in this repository are licensed under CC BY 4.0.
